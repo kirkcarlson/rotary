@@ -39,6 +39,7 @@ The slide switch is used to control the Particle MANUAL mode to allow the Photon
 
 Code has been compile using the Particle command line interface.
 
+- **Makefile** This is the makefile with dependencies and recipes.
 - **src/rotary.ino** This is the main source code file.
 - **src/address.h** This file holds the addressing information for the MQTT and the node name.
 - **src/button.h** This file holds the class definiton for the button.
